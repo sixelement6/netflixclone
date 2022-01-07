@@ -60,7 +60,7 @@ export default () => {
 
       <footer>
         <hr></hr>
-        Feito por Guilherme Soares
+        Feito por Guilherme Soares E-mail: guilhermefbachiega@gmail.com
         <br></br>
         Direitos de imagem para Netflix
         <br></br>
